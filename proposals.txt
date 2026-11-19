@@ -1,0 +1,4 @@
+- Add Clean, nice, UI
+- Fix word update
+- Add a better score counter
+- Make the score, points, which can be redeemed as rewards.
